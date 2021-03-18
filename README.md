@@ -1,3 +1,9 @@
+# about interface
+a small project with React using api for filtring characters
+
+![Capture d’écran 2021-03-18 232946](https://user-images.githubusercontent.com/73104268/111706209-2f6fb080-8842-11eb-8c2c-26d9c3475e66.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
